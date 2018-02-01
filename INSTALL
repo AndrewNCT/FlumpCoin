@@ -1,0 +1,9 @@
+Building FlumpCoin
+
+See doc/readme-qt.rst for instructions on building FlumpCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FlumpCoin.
+
+See doc/build-*.txt for instructions on building flumpcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FlumpCoin.
